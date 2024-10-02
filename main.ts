@@ -3,4 +3,5 @@ basic.forever(function () {
     basic.showIcon(IconNames.Target)
     basic.showArrow(ArrowNames.SouthEast)
     basic.showArrow(ArrowNames.SouthEast)
+    basic.showString("engineers boot up")
 })
